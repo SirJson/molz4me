@@ -1,6 +1,6 @@
 # molz4me
 
-A small wrapper around the mozlz4 to decompress and compress mozlz4 files. Nothing fancy.
+A small wrapper around the molz4 to decompress and compress mozlz4 files. Nothing fancy.
 
 ## Usage
 
